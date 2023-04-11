@@ -1,0 +1,29 @@
+.banner{
+      background-color:teal;
+      width:100%;
+      height:200px;
+      margin-bottom:50px;
+}
+
+.banner-text{
+top:25%;
+left:50%;
+color:white;
+font-style:italic;
+position:absolute;
+transform:transform;
+}
+
+.bt{
+left:40%;
+position:absolute;
+transform:transform;
+}
+
+.card-body{
+background-color:teal;
+}
+.date{
+background-color:black;
+color:white;
+}
